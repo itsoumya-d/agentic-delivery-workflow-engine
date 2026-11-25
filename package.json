@@ -1,0 +1,25 @@
+{
+  "name": "agentic-delivery-workflow-engine",
+  "version": "1.0.0",
+  "description": "Multi-stage agentic solution delivery workflow engine with automated policy checks, risk detection, and human-in-the-loop review checkpoints",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "agentic-workflows",
+    "autonomous-agents",
+    "delivery-pipeline",
+    "risk-detection",
+    "human-in-the-loop",
+    "typescript"
+  ],
+  "author": "Soumya Debnath",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0"
+  }
+}
